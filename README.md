@@ -1,8 +1,16 @@
-# following-list
+# Following List
+A simple web application for social media fantastic
 
-Following List is a project done in ALPHACamp BootCamp. It allows the users to
+## Features
+- listing users from movie api
+- searching users by name
+- follow other users by clicking `follow` and add to following list
+- manage your following list
 
-1.	view all other users from "https://lighthouse-user-api.herokuapp.com/api/v1/users"
-2.	search other users with keywords
-3.	follow and unfollow other users
+### Searching
+type the name of the users in search bar
+### Favorite List
+In index page, press the `follow` button on the user card to follow the user and add into following list.
+You can checkout the following list in `following.html`
+press `unfollow` to unfollow other user
 
